@@ -1,2 +1,2 @@
 # Presentations
-How to create custom binding libraries for Xamarin.iOS and Xamarin.Android.
+PowerPoints presentations on how to create custom binding libraries for Xamarin.iOS and Xamarin.Android.
